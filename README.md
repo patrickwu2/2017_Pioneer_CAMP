@@ -19,7 +19,7 @@
 Problems * 12
 
 - 103
-	- uniq, sort
+	- `uniq, sort`
 - 204
 	- naive
 - Courtyard
@@ -29,23 +29,23 @@ Problems * 12
 - Freshman Area
 	- redirection
 - Majong Room
-	- find
+	- `find`
 - My Diary
 	- provide clues
 - PTT Engine Room
 	- virtual machine
 - Prof.P's Office
-	- gcc
+	- `gcc`
 - Red Sofa Area
-	- Related to Prof.P's Office
+	- Related to Prof.P's Office -> wget file is in this repo
 - Study Room
 	- vim, cat
 - Table Tennis Table
 	- `^C`
 - Trash Can Area
-	- cp, mv, the usage of `*`
+	- `cp, mv` and the usage of `*`
 - Aquarium
-	- git
+	- git (reset)
 - Funny
 	- ARVIN_IS_GOD
 
